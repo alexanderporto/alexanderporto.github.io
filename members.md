@@ -1,7 +1,7 @@
 # Members
 
-| Name | Role | Contact |
-|------|------|---------|
+| <!-- --> | <!-- --> | <!-- --> |
+|----------|----------|----------|
 |Alexander Porto|Co-Director|[Website](http://www.alexanderporto.net/)|
 |Alexander Basalyga|Co-Director|[Email](mailto:alxbslg@gmail.com)|
 |Alexander Kranjec, PhD|Affiliate Researcher|[Website](https://sites.google.com/site/alexanderkranjec/)|
