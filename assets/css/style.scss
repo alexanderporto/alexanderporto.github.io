@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+@use "{{ site.theme }}";
 
 html, body {
     background-color: black;
